@@ -1,3 +1,7 @@
+# title: 'Master PDF Summarization with Google Bard | bardpdf.top'
+## summary: "Discover how Google Bard transforms PDF summarization with AI. Learn to master document analysis effortlessly at bardpdf.top."
+
+
 ## **introduction**
 
 With the rapid advancement of artificial intelligence technology, we are witnessing how AI is changing the way we process documents and information.
