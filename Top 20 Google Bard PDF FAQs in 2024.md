@@ -107,7 +107,7 @@ Here is a [Bard PDF brief guide](https://bardpdf.top/article/google-bard-pdf-pro
 
 the update link is : [After renaming bard to gemini, it is no longer possible to read online pdfs](https://bardpdf.top/article/google-bard-pdf-can-not-read-online-pdf)
 
-the new Solution is : ![Support online pdf file reading](https://bardpdf.top/article/google-bard-gemini-online-pdf-reading-without-uploads)
+the new Solution is : [Support online pdf file reading](https://bardpdf.top/article/google-bard-gemini-online-pdf-reading-without-uploads)
 
 
 ## **13. What’s the Bard’s PDF use that Gemini Pro or Gemini Ultra at 2024-01 ?**
