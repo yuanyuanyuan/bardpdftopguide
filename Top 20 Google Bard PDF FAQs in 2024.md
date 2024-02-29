@@ -26,6 +26,7 @@ You can look here:[Bard PDF guide ](https://bardpdf.top/article/google-bard-pdf-
 ~~You can watch this operation video:~~
 
 the update link is : [After renaming bard to gemini, Bard PDF is no longer possible to read online pdfs](https://bardpdf.top/article/google-bard-pdf-can-not-read-online-pdf)
+
 the new Solution is : ![Support online pdf file reading](https://bardpdf.top/article/google-bard-gemini-online-pdf-reading-without-uploads)
 
 
