@@ -22,6 +22,9 @@ Based on Google Bard’s recent [few months of updates](https://bard.google.com/
 ~~2. Support online pdf file reading~~
 the update link is : [After renaming bard to gemini, Bard PDF  is no longer possible to read online pdfs](https://bardpdf.top/article/google-bard-pdf-can-not-read-online-pdf)
 
+the new Solution is : [Support online pdf file reading](https://bardpdf.top/article/google-bard-gemini-online-pdf-reading-without-uploads)
+
+
 3. More languages ​​are supported. Previously, only a few languages ​​were supported, but now 40 are supported.
 
 ![Google Bard pdf support 40 languages](https://img.whynotbetter.com/whynotbetter/2024/02/1f2f9e681151d8ead607bc79aed465f0.png)
